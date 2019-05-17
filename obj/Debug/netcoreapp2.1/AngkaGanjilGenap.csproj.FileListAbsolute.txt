@@ -1,0 +1,11 @@
+F:\Contents\Tutorial\AngkaGanjilGenap\bin\Debug\netcoreapp2.1\AngkaGanjilGenap.deps.json
+F:\Contents\Tutorial\AngkaGanjilGenap\bin\Debug\netcoreapp2.1\AngkaGanjilGenap.runtimeconfig.json
+F:\Contents\Tutorial\AngkaGanjilGenap\bin\Debug\netcoreapp2.1\AngkaGanjilGenap.runtimeconfig.dev.json
+F:\Contents\Tutorial\AngkaGanjilGenap\bin\Debug\netcoreapp2.1\AngkaGanjilGenap.dll
+F:\Contents\Tutorial\AngkaGanjilGenap\bin\Debug\netcoreapp2.1\AngkaGanjilGenap.pdb
+F:\Contents\Tutorial\AngkaGanjilGenap\obj\Debug\netcoreapp2.1\AngkaGanjilGenap.csprojAssemblyReference.cache
+F:\Contents\Tutorial\AngkaGanjilGenap\obj\Debug\netcoreapp2.1\AngkaGanjilGenap.csproj.CoreCompileInputs.cache
+F:\Contents\Tutorial\AngkaGanjilGenap\obj\Debug\netcoreapp2.1\AngkaGanjilGenap.AssemblyInfoInputs.cache
+F:\Contents\Tutorial\AngkaGanjilGenap\obj\Debug\netcoreapp2.1\AngkaGanjilGenap.AssemblyInfo.cs
+F:\Contents\Tutorial\AngkaGanjilGenap\obj\Debug\netcoreapp2.1\AngkaGanjilGenap.dll
+F:\Contents\Tutorial\AngkaGanjilGenap\obj\Debug\netcoreapp2.1\AngkaGanjilGenap.pdb
